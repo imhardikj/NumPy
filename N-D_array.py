@@ -22,4 +22,4 @@ print(earnings.shape)
 
 print(earnings[:,0,0])
 
-print(earnings[:,0,:])
+print(earnings[:, 0, :])
